@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\LAB 8 SEARCH\LAB 8 SEARCH\bin\Debug\LAB 8 SEARCH.exe.config
+C:\Users\User\source\repos\LAB 8 SEARCH\LAB 8 SEARCH\bin\Debug\LAB 8 SEARCH.exe
+C:\Users\User\source\repos\LAB 8 SEARCH\LAB 8 SEARCH\bin\Debug\LAB 8 SEARCH.pdb
+C:\Users\User\source\repos\LAB 8 SEARCH\LAB 8 SEARCH\obj\Debug\LAB 8 SEARCH.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LAB 8 SEARCH\LAB 8 SEARCH\obj\Debug\LAB 8 SEARCH.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\LAB 8 SEARCH\LAB 8 SEARCH\obj\Debug\LAB 8 SEARCH.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LAB 8 SEARCH\LAB 8 SEARCH\obj\Debug\LAB 8 SEARCH.exe
+C:\Users\User\source\repos\LAB 8 SEARCH\LAB 8 SEARCH\obj\Debug\LAB 8 SEARCH.pdb
